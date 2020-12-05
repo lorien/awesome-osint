@@ -4,9 +4,10 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 
 ## Table of Contents
 
-- [Web Services](#web-services)
+- [Web Tools](#web-tools)
+- [Software Tools](#software-tools)
 
-## Web Services
+## Web Tools
 
 ### Reverse IP Lookup
 
@@ -38,7 +39,7 @@ See also "Domain IP History" tools
 
 - google: "site:*.domain.com"
 
-## Standalone Tools / Software
+## Software Tools
 
 ### Subdomains Enumeration
 
