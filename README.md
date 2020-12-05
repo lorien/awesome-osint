@@ -17,6 +17,7 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 ### Domain IP History
 
 - https://viewdns.info/iphistory/
+- https://threatcrowd.org/ - see "dns resolutions" in results
 
 ### ASN Lookup
 
@@ -41,6 +42,7 @@ See also "Domain IP History" tools
 
 - google: "site:*.domain.com"
 - https://dnsdumpster.com/
+- https://crt.sh/ - historical data of SSL cert, see Common Name data
 
 ### Zone Transfer
 
@@ -50,4 +52,5 @@ See also "Domain IP History" tools
 
 ### Subdomains Enumeration
 
-- https://github.com/guelfoweb/knock - dictionary-based enum, wildcard detection
+- https://github.com/guelfoweb/knock - brute-forcing, wildcard detection
+- https://github.com/aboul3la/Sublist3r - search engines, dnsdumpster, brute-forcing
