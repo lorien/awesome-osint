@@ -24,6 +24,7 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 ### Reverse NS Lookup
 
 - https://viewdns.info/reversens/
+- https://hackertarget.com/find-shared-dns-servers/
 
 ### Real Domain IP
 
@@ -38,6 +39,10 @@ See also "Domain IP History" tools
 ### Subdomains Enumeration
 
 - google: "site:*.domain.com"
+
+### Zone Transfer
+
+- https://hackertarget.com/zone-transfer/
 
 ## Software Tools
 
