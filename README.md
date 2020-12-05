@@ -12,6 +12,7 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 ### Reverse IP Lookup
 
 - https://viewdns.info/reverseip/
+- bing: "ip:8.8.8.8"
 
 ### Domain IP History
 
