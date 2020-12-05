@@ -57,3 +57,8 @@ See also "Domain IP History" tools
 
 - https://github.com/guelfoweb/knock - brute-forcing, wildcard detection
 - https://github.com/aboul3la/Sublist3r - search engines, dnsdumpster, brute-forcing
+
+### Website Directories
+
+- https://github.com/Nekmo/dirhunt
+- https://github.com/Nekmo/dirhunt - 
