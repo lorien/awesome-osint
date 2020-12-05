@@ -23,3 +23,7 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 See also "Domain IP History" tools
 
 - http://www.crimeflare.org:82/cfs.html
+
+## WHOIS History
+
+- http://whoishistory.ru/ - history for .RU, .SU, .РФ domains
