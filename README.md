@@ -2,32 +2,44 @@
 
 I am going to build this list for my own needs. Feel free to submit PR with new services/tools.
 
-## Reverse IP Lookup
+## Table of Contents
+
+- [Web Services](#web-services)
+
+## Web Services
+
+### Reverse IP Lookup
 
 - https://viewdns.info/reverseip/
 
-## Domain IP History
+### Domain IP History
 
 - https://viewdns.info/iphistory/
 
-## ASN Lookup
+### ASN Lookup
 
 - https://viewdns.info/asnlookup/
 
-## Reverse NS Lookup
+### Reverse NS Lookup
 
 - https://viewdns.info/reversens/
 
-## Real Domain IP
+### Real Domain IP
 
 See also "Domain IP History" tools
 
 - http://www.crimeflare.org:82/cfs.html
 
-## WHOIS History
+### WHOIS History
 
 - http://whoishistory.ru/ - history for .RU, .SU, .РФ domains
 
-## Subdomains Search
+### Subdomains Enumeration
 
 - google: "site:*.domain.com"
+
+## Standalone Tools / Software
+
+### Subdomains Enumeration
+
+- https://github.com/guelfoweb/knock - dictionary-based enum, wildcard detection
