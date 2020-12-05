@@ -9,11 +9,12 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 
 ## Web Tools
 
-### Reverse IP Lookup
+### Reverse IP
 
 - https://viewdns.info/reverseip/
 - bing: "ip:8.8.8.8"
 - http://atsameip.intercode.ca/
+- https://dnslytics.com/reverse-ip
 
 ### Domain IP History
 
@@ -21,16 +22,17 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 - https://threatcrowd.org/ - see "dns resolutions" in results
 - https://cyber-hub.pw/domain_history.php
 
-### ASN Lookup
+### ASN
 
 - https://viewdns.info/asnlookup/
 
-### Reverse NS Lookup
+### Reverse NS
 
 - https://viewdns.info/reversens/
 - https://hackertarget.com/find-shared-dns-servers/
+- https://dnslytics.com/reverse-ns
 
-### Real Domain IP
+### Cloudflare Deanon
 
 See also "Domain IP History" tools
 
@@ -40,12 +42,20 @@ See also "Domain IP History" tools
 
 - http://whoishistory.ru/ - history for .RU, .SU, .РФ domains
 
-### Subdomains Enumeration
+### Subdomains
 
 - google: "site:*.domain.com"
 - https://dnsdumpster.com/
 - https://crt.sh/ - historical data of SSL cert, see Common Name data
 - https://cyber-hub.pw/domain_resolver.php
+
+### Reverse Adsense
+
+- https://dnslytics.com/reverse-adsense
+
+### Reverse Analytics
+
+- https://dnslytics.com/reverse-analytics
 
 ### Zone Transfer
 
@@ -53,7 +63,7 @@ See also "Domain IP History" tools
 
 ## Software Tools
 
-### Subdomains Enumeration
+### Subdomains
 
 - https://github.com/guelfoweb/knock - brute-forcing, wildcard detection
 - https://github.com/aboul3la/Sublist3r - search engines, dnsdumpster, brute-forcing
