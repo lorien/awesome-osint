@@ -17,3 +17,9 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 ## Reverse NS Lookup
 
 - https://viewdns.info/reversens/
+
+## Real Domain IP
+
+See also "Domain IP History" tools
+
+- http://www.crimeflare.org:82/cfs.html
