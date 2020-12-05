@@ -13,6 +13,7 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 
 - https://viewdns.info/reverseip/
 - bing: "ip:8.8.8.8"
+- http://atsameip.intercode.ca/
 
 ### Domain IP History
 
