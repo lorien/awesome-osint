@@ -56,6 +56,7 @@ See also "Domain IP History" tools
 ### Reverse Analytics
 
 - https://dnslytics.com/reverse-analytics
+- https://analyzeid.com/id/codeby.net
 
 ### Zone Transfer
 
@@ -67,6 +68,7 @@ See also "Domain IP History" tools
 
 - https://github.com/guelfoweb/knock - brute-forcing, wildcard detection
 - https://github.com/aboul3la/Sublist3r - search engines, dnsdumpster, brute-forcing
+- https://github.com/OWASP/Amass - `amass enum` command
 
 ### Website Directories
 
