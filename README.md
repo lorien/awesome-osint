@@ -18,6 +18,7 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 
 - https://viewdns.info/iphistory/
 - https://threatcrowd.org/ - see "dns resolutions" in results
+- https://cyber-hub.pw/domain_history.php
 
 ### ASN Lookup
 
@@ -43,6 +44,7 @@ See also "Domain IP History" tools
 - google: "site:*.domain.com"
 - https://dnsdumpster.com/
 - https://crt.sh/ - historical data of SSL cert, see Common Name data
+- https://cyber-hub.pw/domain_resolver.php
 
 ### Zone Transfer
 
