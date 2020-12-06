@@ -62,6 +62,10 @@ See also "Domain IP History" tools
 
 - https://hackertarget.com/zone-transfer/
 
+### Google Dorks
+
+- https://www.exploit-db.com/google-hacking-database
+
 ## Software Tools
 
 ### Subdomains
