@@ -76,5 +76,4 @@ See also "Domain IP History" tools
 
 ### Website Directories
 
-- https://github.com/Nekmo/dirhunt
-- https://github.com/Nekmo/dirhunt - 
+- https://github.com/Nekmo/dirhunt 
