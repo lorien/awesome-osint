@@ -73,3 +73,7 @@ See also "Domain IP History" tools
 ### Website Directories
 
 - https://github.com/Nekmo/dirhunt 
+
+### Image Processsing
+
+- https://github.com/beurtschipper/Depix - recovers text blured with linear box filter
