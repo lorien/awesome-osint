@@ -22,10 +22,6 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 - https://threatcrowd.org/ - see "dns resolutions" in results
 - https://cyber-hub.pw/domain_history.php
 
-### ASN
-
-- https://viewdns.info/asnlookup/
-
 ### Reverse NS
 
 - https://viewdns.info/reversens/
