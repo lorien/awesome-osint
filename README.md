@@ -78,3 +78,7 @@ See also "Domain IP History" tools
 ### Image Processsing
 
 - https://github.com/beurtschipper/Depix - recovers text blured with linear box filter
+
+### Cloudflare Deanon
+
+- https://github.com/m0rtem/CloudFail - dnsdumpster, crimeflare, brute-force
