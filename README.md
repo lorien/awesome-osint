@@ -62,6 +62,10 @@ See also "Domain IP History" tools
 
 - https://www.exploit-db.com/google-hacking-database
 
+### Hash Cracking
+
+- https://crackstation.net/
+
 ## Software Tools
 
 ### Subdomains
