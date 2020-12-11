@@ -86,3 +86,12 @@ See also "Domain IP History" tools
 ### Cloudflare Deanon
 
 - https://github.com/m0rtem/CloudFail - dnsdumpster, crimeflare, brute-force
+
+### Lists for fuzzing/bruteforce
+
+- https://github.com/fuzzdb-project/fuzzdb
+- https://github.com/danielmiessler/SecLists
+
+### Web Fuzzing
+
+- https://github.com/ffuf/ffuf
