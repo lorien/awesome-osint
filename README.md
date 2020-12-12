@@ -92,6 +92,7 @@ See also "Domain IP History" tools
 
 - https://github.com/Nekmo/dirhunt
 - https://github.com/maurosoria/dirsearch
+- https://github.com/ffuf/ffuf + lists
 
 ### Image Processsing
 
