@@ -66,6 +66,20 @@ See also "Domain IP History" tools
 
 - https://crackstation.net/
 
+### Person Photo Search
+
+- https://pimeyes.com/
+- https://findclone.ru/
+- https://search4faces.com/
+
+### Image Search
+
+- https://tineye.com/
+
+### Removing Background from Photo
+
+- https://remove.bg
+
 ## Software Tools
 
 ### Subdomains
