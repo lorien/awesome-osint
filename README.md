@@ -14,11 +14,16 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 - https://twitter.com/account/begin_password_reset
 - https://www.facebook.com/login/identify/
 - https://www.paypal.com/authflow/password-recovery/
+- https://vk.com/restore
 
 ### Phone To Email
 
 - https://twitter.com/account/begin_password_reset
 - https://www.facebook.com/login/identify/
+
+### Phone to Username
+
+- - https://vk.com/restore
 
 ### Reverse IP
 
