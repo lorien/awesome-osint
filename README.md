@@ -16,16 +16,23 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 - https://www.paypal.com/authflow/password-recovery/ (silent)
 - https://vk.com/restore (silent)
 - https://iforgot.apple.com/password/verify/appleid (silent, alert sometime)
+- https://account.live.com/ResetPassword.aspx (silent)
 
 ### Phone To Email
 
 - https://twitter.com/account/begin_password_reset (silent)
 - https://www.facebook.com/login/identify/ (silent, alert sometim)
+- https://account.live.com/ResetPassword.aspx (silent)
 
 ### Email by Personal Data
 
 - https://account.samsung.com/accounts/v1/SAMSUNGCA/findId (silent, By First Name, Last Name and Birtday)
 - https://www.instagram.com/accounts/password/reset/ (alert, by username)
+- https://account.live.com/ResetPassword.aspx (silent, by username)
+
+### Phone by Personal Data
+
+- https://account.live.com/ResetPassword.aspx (silent, by username)
 
 ### Phone to Username
 
