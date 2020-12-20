@@ -21,6 +21,10 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 - https://twitter.com/account/begin_password_reset
 - https://www.facebook.com/login/identify/
 
+### Email by Personal Data
+
+- https://account.samsung.com/accounts/v1/SAMSUNGCA/findId (By First Name, Last Name and Birtday)
+
 ### Phone to Username
 
 - - https://vk.com/restore
