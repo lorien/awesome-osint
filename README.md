@@ -11,24 +11,26 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 
 ### Email to Phone
 
-- https://twitter.com/account/begin_password_reset
-- https://www.facebook.com/login/identify/
-- https://www.paypal.com/authflow/password-recovery/
-- https://vk.com/restore
-- https://iforgot.apple.com/password/verify/appleid
+- https://twitter.com/account/begin_password_reset (silent, alert sometime)
+- https://www.facebook.com/login/identify/ (silent)
+- https://www.paypal.com/authflow/password-recovery/ (silent)
+- https://vk.com/restore (silent)
+- https://iforgot.apple.com/password/verify/appleid (silent, alert sometime)
 
 ### Phone To Email
 
-- https://twitter.com/account/begin_password_reset
-- https://www.facebook.com/login/identify/
+- https://twitter.com/account/begin_password_reset (silent)
+- https://www.facebook.com/login/identify/ (silent, alert sometim)
 
 ### Email by Personal Data
 
-- https://account.samsung.com/accounts/v1/SAMSUNGCA/findId (By First Name, Last Name and Birtday)
+- https://account.samsung.com/accounts/v1/SAMSUNGCA/findId (silent, By First Name, Last Name and Birtday)
+- https://www.instagram.com/accounts/password/reset/ (alert, by username)
 
 ### Phone to Username
 
-- - https://vk.com/restore
+- https://vk.com/restore (silent)
+- Telegram -> Contacts -> Add contact by phone (silent)
 
 ### Reverse IP
 
@@ -92,6 +94,8 @@ See also "Domain IP History" tools
 - https://pimeyes.com/
 - https://findclone.ru/
 - https://search4faces.com/
+- https://yandex.ru/images/
+- https://www.google.com/imghp?tbm=isch
 
 ### Image Search
 
@@ -108,12 +112,6 @@ See also "Domain IP History" tools
 - https://github.com/guelfoweb/knock - brute-forcing, wildcard detection
 - https://github.com/aboul3la/Sublist3r - search engines, dnsdumpster, brute-forcing
 - https://github.com/OWASP/Amass - `amass enum` command
-
-### Website Directories
-
-- https://github.com/Nekmo/dirhunt
-- https://github.com/maurosoria/dirsearch
-- https://github.com/ffuf/ffuf + lists
 
 ### Image Processsing
 
