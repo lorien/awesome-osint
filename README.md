@@ -15,6 +15,7 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 - https://www.facebook.com/login/identify/
 - https://www.paypal.com/authflow/password-recovery/
 - https://vk.com/restore
+- https://iforgot.apple.com/password/verify/appleid
 
 ### Phone To Email
 
