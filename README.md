@@ -9,6 +9,16 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 
 ## Web Tools
 
+### Email to Phone
+
+- https://twitter.com/account/begin_password_reset
+- https://www.facebook.com/login/identify/
+
+### Phone To Email
+
+- https://twitter.com/account/begin_password_reset
+- https://www.facebook.com/login/identify/
+
 ### Reverse IP
 
 - https://viewdns.info/reverseip/
