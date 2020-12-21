@@ -17,6 +17,7 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 - https://vk.com/restore (silent)
 - https://iforgot.apple.com/password/verify/appleid (silent, alert sometime)
 - https://account.live.com/ResetPassword.aspx (silent)
+- https://signin.ebay.com/ws/eBayISAPI.dll?SignIn "Continue", then "Need help signing in?" (alert sometime)
 
 ### Phone To Email
 
@@ -33,6 +34,7 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 ### Phone by Personal Data
 
 - https://account.live.com/ResetPassword.aspx (silent, by username)
+- https://signin.ebay.com/ws/eBayISAPI.dll?SignIn "Continue", then "Need help signing in?" (alert sometime, by username)
 
 ### Phone to Username
 
