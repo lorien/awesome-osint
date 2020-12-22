@@ -6,6 +6,7 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 
 - [Web Tools](#web-tools)
 - [Software Tools](#software-tools)
+- [Datasets](#datasets)
 
 ## Web Tools
 
@@ -131,11 +132,14 @@ See also "Domain IP History" tools
 
 - https://github.com/m0rtem/CloudFail - dnsdumpster, crimeflare, brute-force
 
+### Web Fuzzing
+
+- https://github.com/ffuf/ffuf
+
+## Datasets
+
 ### Lists for fuzzing/bruteforce
 
 - https://github.com/fuzzdb-project/fuzzdb
 - https://github.com/danielmiessler/SecLists
-
-### Web Fuzzing
-
-- https://github.com/ffuf/ffuf
+- https://github.com/FlameOfIgnis/Pwdb-Public
