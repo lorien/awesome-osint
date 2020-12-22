@@ -69,7 +69,7 @@ See also "Domain IP History" tools
 ### WHOIS History
 
 - http://whoishistory.ru/ - history for .RU, .SU, .РФ domains
-- https://domainwat.ch/search
+- https://domainwat.ch
 
 ### Subdomains
 
