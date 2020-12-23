@@ -42,6 +42,15 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 - https://vk.com/restore (silent)
 - Telegram -> Contacts -> Add contact by phone (silent)
 
+## Email to Linkedin
+
+- https://outlook.live.com/ create new contact then go to "linkedin" tab (silent)
+
+### Phone to Telegram
+
+- In telegram client, Contacts -> Add contact
+
+
 ### Reverse IP
 
 - https://viewdns.info/reverseip/
