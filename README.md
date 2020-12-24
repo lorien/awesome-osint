@@ -10,7 +10,7 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 
 ## Web Tools
 
-### Email to Phone
+### Email to Phone Number
 
 - https://twitter.com/account/begin_password_reset (silent, alert sometime)
 - https://www.facebook.com/login/identify/ (silent)
@@ -20,7 +20,7 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 - https://account.live.com/ResetPassword.aspx (silent)
 - https://signin.ebay.com/ws/eBayISAPI.dll?SignIn "Continue", then "Need help signing in?" (alert sometime)
 
-### Phone To Email
+### Phone Number To Email
 
 - https://twitter.com/account/begin_password_reset (silent)
 - https://www.facebook.com/login/identify/ (silent, alert sometim)
@@ -32,12 +32,12 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 - https://www.instagram.com/accounts/password/reset/ (alert, by username)
 - https://account.live.com/ResetPassword.aspx (silent, by username)
 
-### Phone by Personal Data
+### Phone Number by Personal Data
 
 - https://account.live.com/ResetPassword.aspx (silent, by username)
 - https://signin.ebay.com/ws/eBayISAPI.dll?SignIn "Continue", then "Need help signing in?" (alert sometime, by username)
 
-### Phone to Username
+### Phone Number to Username
 
 - https://vk.com/restore (silent)
 - Telegram -> Contacts -> Add contact by phone (silent)
@@ -46,9 +46,13 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 
 - https://outlook.live.com/ create new contact then go to "linkedin" tab (silent)
 
-### Phone to Telegram
+### Phone Number to Telegram
 
 - In telegram client, Contacts -> Add contact
+
+### Facebook URL Id to my.mail.ru
+
+- https://my.mail.ru/fb/FACEBOOK-URL-ID
 
 
 ### Reverse IP
