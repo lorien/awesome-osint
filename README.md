@@ -58,6 +58,11 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 
 - https://my.mail.ru/vk/FACEBOOK-URL-ID
 
+### Name to Personal Data
+
+- https://verecor.com/ (US)
+- https://truepeoplesearch.com (US)
+
 ### Reverse IP
 
 - https://viewdns.info/reverseip/
