@@ -50,10 +50,13 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 
 - In telegram client, Contacts -> Add contact
 
-### Facebook URL Id to my.mail.ru
+### Facebook ID to my.mail.ru
 
 - https://my.mail.ru/fb/FACEBOOK-URL-ID
 
+### Vkontakte ID to my.mail.ru
+
+- https://my.mail.ru/vk/FACEBOOK-URL-ID
 
 ### Reverse IP
 
