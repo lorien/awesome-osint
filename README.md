@@ -58,6 +58,10 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 
 - https://my.mail.ru/vk/FACEBOOK-URL-ID
 
+### Gmail email to my.mail.ru
+
+- https://my.mail.ru/gmail/GMAIL-USERNAME (without "@gmail.com")
+
 ### Name to Personal Data
 
 - https://verecor.com/ (US)
