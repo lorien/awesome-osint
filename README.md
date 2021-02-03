@@ -46,10 +46,6 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 
 - https://outlook.live.com/ create new contact then go to "linkedin" tab (silent)
 
-### Phone Number to Telegram
-
-- In telegram client, Contacts -> Add contact
-
 ### Facebook ID to my.mail.ru
 
 - https://my.mail.ru/fb/FACEBOOK-URL-ID
