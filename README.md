@@ -60,12 +60,12 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 - https://pimeyes.com/
 - https://findclone.ru/
 - https://search4faces.com/
-- https://yandex.ru/images/
-- https://www.google.com/imghp?tbm=isch
 
 ### Image Search
 
 - https://tineye.com/
+- https://yandex.ru/images/
+- https://www.google.com/imghp?tbm=isch
 
 ### Removing Background from Photo
 
