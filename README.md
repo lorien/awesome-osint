@@ -71,7 +71,7 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 
 - https://remove.bg
 
-### Telegram Groups of Person
+### Telegram Username/ID to Name/Username/ID/Membership-in-groups
 
 - https://t.me/TgScanRobot
 
