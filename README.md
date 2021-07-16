@@ -2,12 +2,6 @@
 
 I am going to build this list for my own needs. Feel free to submit PR with new services/tools.
 
-## Table of Contents
-
-- [Web Tools](#web-tools)
-
-## Web Tools
-
 ### Email to Phone Number
 
 - https://twitter.com/account/begin_password_reset (silent, alert sometime)
