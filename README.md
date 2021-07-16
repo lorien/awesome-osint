@@ -73,7 +73,7 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 
 ### Telegram Username/ID to Name/Username/ID/Membership-in-groups
 
-- https://t.me/TgScanRobot
+- https://t.me/TgScanRobot (telegram bot)
 
 ### Domain Name to possible emails
 
