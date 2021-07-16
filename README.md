@@ -78,3 +78,7 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 ### Domain Name to possible emails
 
 - https://hunter.io
+
+### Username to account
+
+- https://github.com/soxoj/maigret (software, python, console)
