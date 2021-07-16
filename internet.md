@@ -1,4 +1,4 @@
-# OSINT tools to investigate network things
+# OSINT tools to search for network things
 
 ## Table of Contents
 
