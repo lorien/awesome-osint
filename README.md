@@ -52,8 +52,8 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 
 ### Name to Personal Data
 
-- https://verecor.com/ (US)
-- https://truepeoplesearch.com (US)
+- https://verecor.com/ (US citizens)
+- https://truepeoplesearch.com (US citizens)
 
 ### Person Photo Search
 
