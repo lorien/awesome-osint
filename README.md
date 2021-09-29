@@ -44,7 +44,7 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 
 ### Vkontakte ID to my.mail.ru
 
-- https://my.mail.ru/vk/FACEBOOK-URL-ID
+- https://my.mail.ru/vk/VKONTAKTE-URL-ID
 
 ### Gmail email to my.mail.ru
 
