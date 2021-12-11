@@ -4,39 +4,39 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 
 ### Email to Phone Number
 
-- https://twitter.com/account/begin_password_reset (silent, alert sometime)
-- https://www.facebook.com/login/identify/ (silent)
-- https://www.paypal.com/authflow/password-recovery/ (silent)
-- https://vk.com/restore (silent)
-- https://iforgot.apple.com/password/verify/appleid (silent, alert sometime)
-- https://account.live.com/ResetPassword.aspx (silent)
-- https://signin.ebay.com/ws/eBayISAPI.dll?SignIn "Continue", then "Need help signing in?" (alert sometime)
+- https://twitter.com/account/begin_password_reset
+- https://www.facebook.com/login/identify/
+- https://www.paypal.com/authflow/password-recovery/
+- https://vk.com/restore
+- https://iforgot.apple.com/password/verify/appleid
+- https://account.live.com/ResetPassword.aspx
+- https://signin.ebay.com/ws/eBayISAPI.dll?SignIn "Continue", then "Need help signing in?"
 
 ### Phone Number To Email
 
-- https://twitter.com/account/begin_password_reset (silent)
-- https://www.facebook.com/login/identify/ (silent, alert sometim)
-- https://account.live.com/ResetPassword.aspx (silent)
+- https://twitter.com/account/begin_password_reset
+- https://www.facebook.com/login/identify/
+- https://account.live.com/ResetPassword.aspx
 
 ### Email by Personal Data
 
-- https://account.samsung.com/accounts/v1/SAMSUNGCA/findId (silent, By First Name, Last Name and Birtday)
-- https://www.instagram.com/accounts/password/reset/ (alert, by username)
-- https://account.live.com/ResetPassword.aspx (silent, by username)
+- https://account.samsung.com/accounts/v1/SAMSUNGCA/findId (By First Name, Last Name and Birtday)
+- https://www.instagram.com/accounts/password/reset/ (by username)
+- https://account.live.com/ResetPassword.aspx (by username)
 
 ### Phone Number by Personal Data
 
-- https://account.live.com/ResetPassword.aspx (silent, by username)
-- https://signin.ebay.com/ws/eBayISAPI.dll?SignIn "Continue", then "Need help signing in?" (alert sometime, by username)
+- https://account.live.com/ResetPassword.aspx (by username)
+- https://signin.ebay.com/ws/eBayISAPI.dll?SignIn "Continue", then "Need help signing in?" (by username)
 
 ### Phone Number to Username
 
-- https://vk.com/restore (silent)
-- Telegram -> Contacts -> Add contact by phone (silent)
+- https://vk.com/restore
+- Telegram -> Contacts -> Add contact by phone
 
 ### Email to Linkedin
 
-- https://outlook.live.com/ create new contact then go to "linkedin" tab (silent)
+- https://outlook.live.com/ create new contact then go to "linkedin" tab
 
 ### Facebook ID to my.mail.ru
 
@@ -48,7 +48,7 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 
 ### Vkontakte ID to Extra Data 
 
-- https://vk.com/foaf.php?id=ID (account created, last logged, optional bio and social links)
+- https://vk.com/foaf.php?id=ID (date of account created, date of last login, optional bio and social links)
 
 ### Gmail email to my.mail.ru
 
