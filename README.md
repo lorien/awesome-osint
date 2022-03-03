@@ -1,4 +1,4 @@
-# OSINT tools to search for human data
+# 🇷🇺 OSINT tools to search for human data
 
 I am going to build this list for my own needs. Feel free to submit PR with new services/tools.
 
