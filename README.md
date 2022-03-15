@@ -22,11 +22,9 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 
 - https://account.samsung.com/accounts/v1/SAMSUNGCA/findId (By First Name, Last Name and Birtday)
 - https://www.instagram.com/accounts/password/reset/ (by username)
-- https://account.live.com/ResetPassword.aspx (by username)
 
 ### Phone Number by Personal Data
 
-- https://account.live.com/ResetPassword.aspx (by username)
 - https://signin.ebay.com/ws/eBayISAPI.dll?SignIn "Continue", then "Need help signing in?" (by username)
 
 ### Phone Number to Username
