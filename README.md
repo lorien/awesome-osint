@@ -53,3 +53,9 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 ### Gmail email to my.mail.ru
 
 - https://my.mail.ru/gmail/GMAIL-USERNAME (without "@gmail.com")
+
+### Skype Username to Phone Number
+- https://account.live.com/ResetPassword.aspx
+
+### Skype Username to Email
+- https://account.live.com/ResetPassword.aspx
