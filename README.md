@@ -36,8 +36,11 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 
 ### Vkontakte ID
 
-- my.mail.ru-account: https://my.mail.ru/vk/VKONTAKTE-URL-ID
-- extra-data: https://vk.com/foaf.php?id=ID (date of account created, date of last login, optional bio and social links)
+- my.mail.ru-account: https://my.mail.ru/vk/VKONTAKTE-ID
+- vk-account-extra-data: https://vk.com/foaf.php?id=VKONTAKTE-ID (date of account created, date of last login, optional bio and social links)
+- vk-account-history: https://t.me/vk2017bot
+- vk-account-history: https://t.me/VKHistoryRobot
+- vk-account-history: https://bigbookname.com/user/zzz-VKONTAKTE-ID
 
 ### Gmail email
 
