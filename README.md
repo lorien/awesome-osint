@@ -2,58 +2,46 @@
 
 I am going to build this list for my own needs. Feel free to submit PR with new services/tools.
 
-### Email to Phone Number
+### Email
 
-- https://twitter.com/account/begin_password_reset
-- https://www.facebook.com/login/identify/
-- https://www.paypal.com/authflow/password-recovery/
-- https://vk.com/restore
-- https://iforgot.apple.com/password/verify/appleid
-- https://account.live.com/ResetPassword.aspx
-- https://signin.ebay.com/ws/eBayISAPI.dll?SignIn "Continue", then "Need help signing in?"
+- phone-number: https://twitter.com/account/begin_password_reset
+- phone-number: https://www.facebook.com/login/identify/
+- phone-number: https://www.paypal.com/authflow/password-recovery/
+- phone-number: https://vk.com/restore
+- phone-number: https://iforgot.apple.com/password/verify/appleid
+- phone-number: https://account.live.com/ResetPassword.aspx
+- phone-number: https://signin.ebay.com/ws/eBayISAPI.dll?SignIn "Continue", then "Need help signing in?"
+- linkedin-account: https://outlook.live.com/ create new contact then go to "linkedin" tab
 
-### Phone Number To Email
+### Phone Number
 
-- https://twitter.com/account/begin_password_reset
-- https://www.facebook.com/login/identify/
-- https://account.live.com/ResetPassword.aspx
+- email: https://twitter.com/account/begin_password_reset
+- email: https://www.facebook.com/login/identify/
+- email: https://account.live.com/ResetPassword.aspx
+- username: https://vk.com/restore
+- telegram-account: Telegram -> Contacts -> Add contact by phone
 
-### Email by Personal Data
+### Name and Birthday
 
-- https://account.samsung.com/accounts/v1/SAMSUNGCA/findId (By First Name, Last Name and Birtday)
-- https://www.instagram.com/accounts/password/reset/ (by username)
+- email: https://account.samsung.com/accounts/v1/SAMSUNGCA/findId
 
-### Phone Number by Personal Data
+### Username
 
-- https://signin.ebay.com/ws/eBayISAPI.dll?SignIn "Continue", then "Need help signing in?" (by username)
+- ???: https://www.instagram.com/accounts/password/reset/
+- ???: https://signin.ebay.com/ws/eBayISAPI.dll?SignIn "Continue", then "Need help signing in?"
 
-### Phone Number to Username
+### Facebook ID
 
-- https://vk.com/restore
-- Telegram -> Contacts -> Add contact by phone
+- my.mail.ru-account: https://my.mail.ru/fb/FACEBOOK-URL-ID
 
-### Email to Linkedin
+### Vkontakte ID
 
-- https://outlook.live.com/ create new contact then go to "linkedin" tab
+- my.mail.ru-account: https://my.mail.ru/vk/VKONTAKTE-URL-ID
+- extra-data: https://vk.com/foaf.php?id=ID (date of account created, date of last login, optional bio and social links)
 
-### Facebook ID to my.mail.ru
+### Gmail email
 
-- https://my.mail.ru/fb/FACEBOOK-URL-ID
+- my.mail.ru-account: https://my.mail.ru/gmail/GMAIL-USERNAME (without "@gmail.com")
 
-### Vkontakte ID to my.mail.ru
-
-- https://my.mail.ru/vk/VKONTAKTE-URL-ID
-
-### Vkontakte ID to Extra Data 
-
-- https://vk.com/foaf.php?id=ID (date of account created, date of last login, optional bio and social links)
-
-### Gmail email to my.mail.ru
-
-- https://my.mail.ru/gmail/GMAIL-USERNAME (without "@gmail.com")
-
-### Skype Username to Phone Number
-- https://account.live.com/ResetPassword.aspx
-
-### Skype Username to Email
-- https://account.live.com/ResetPassword.aspx
+### Skype Username
+- phone-number,email: https://account.live.com/ResetPassword.aspx
