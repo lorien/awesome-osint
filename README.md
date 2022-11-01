@@ -48,3 +48,9 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 
 ### Skype Username
 - phone-number,email: https://account.live.com/ResetPassword.aspx
+
+### Photo
+
+- vk-account,odnoklassniki-account,clubhouse-account,tiktok-account: https://search4faces.com/
+- vk-account: https://findclone.ru
+- web-document: https://yandex.ru/images/
