@@ -54,3 +54,7 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 - vk-account,odnoklassniki-account,clubhouse-account,tiktok-account: https://search4faces.com/
 - vk-account: https://findclone.ru
 - web-document: https://yandex.ru/images/
+
+### Telegram ID
+
+- telegram-groups,username,username-history: https://t.me/tgscanrobot
