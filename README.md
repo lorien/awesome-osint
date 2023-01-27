@@ -57,6 +57,7 @@ How to read this list. Each section name represent input data i.e. data you have
 - vk-account,odnoklassniki-account,clubhouse-account,tiktok-account: https://search4faces.com/
 - vk-account: https://findclone.ru
 - web-document: https://yandex.ru/images/
+- web-document: https://images.google.com/
 
 ### Telegram ID
 
