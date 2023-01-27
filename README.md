@@ -2,6 +2,8 @@
 
 I am going to build this list for my own needs. Feel free to submit PR with new services/tools.
 
+How to read this list. Each section name represent input data i.e. data you have already. Each item in the list contains type of data you can reveal with input data and URL of page to enter input data.
+
 ### Email
 
 - phone-number: https://twitter.com/account/begin_password_reset
@@ -20,6 +22,7 @@ I am going to build this list for my own needs. Feel free to submit PR with new 
 - email: https://account.live.com/ResetPassword.aspx
 - username: https://vk.com/restore
 - telegram-account: Telegram -> Contacts -> Add contact by phone
+- email: https://yoomoney.ru/yooid/signin/step/login
 
 ### Name and Birthday
 
