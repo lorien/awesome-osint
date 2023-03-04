@@ -6,84 +6,101 @@ How to read this list. Each section name represent input data i.e. data you have
 
 ### Email
 
-- phone-number: https://twitter.com/account/begin_password_reset
-- phone-number: https://www.facebook.com/login/identify/
-- phone-number: https://www.paypal.com/authflow/password-recovery/
-- phone-number: https://vk.com/restore
-- phone-number: https://iforgot.apple.com/password/verify/appleid
-- phone-number: https://account.live.com/ResetPassword.aspx
-- phone-number: https://signin.ebay.com/ws/eBayISAPI.dll?SignIn "Continue", then "Need help signing in?"
-- linkedin-account: https://outlook.live.com/ create new contact then go to "linkedin" tab
+- phone-number:
+  - https://twitter.com/account/begin_password_reset
+  - https://www.facebook.com/login/identify/
+  - https://www.paypal.com/authflow/password-recovery/
+  - https://vk.com/restore
+  - https://iforgot.apple.com/password/verify/appleid
+  - https://account.live.com/ResetPassword.aspx
+  - https://signin.ebay.com/ws/eBayISAPI.dll?SignIn "Continue", then "Need help signing in?"
+- linkedin-account:
+  - https://outlook.live.com/ create new contact then go to "linkedin" tab
 
 ### Phone Number
 
-- email: https://twitter.com/account/begin_password_reset
-- email: https://www.facebook.com/login/identify/
-- email: https://account.live.com/ResetPassword.aspx
-- username: https://vk.com/restore
-- telegram-account: Telegram -> Contacts -> Add contact by phone
-- email: https://yoomoney.ru/yooid/signin/step/login
+- email:
+  - https://twitter.com/account/begin_password_reset
+  - https://www.facebook.com/login/identify/
+  - https://account.live.com/ResetPassword.aspx
+  - https://yoomoney.ru/yooid/signin/step/login
+- username:
+  - https://vk.com/restore
+- telegram-account:
+  - Telegram -> Contacts -> Add contact by phone 
 
 ### Name and Birthday
-
-- email: https://account.samsung.com/accounts/v1/SAMSUNGCA/findId
+- email:
+  - https://account.samsung.com/accounts/v1/SAMSUNGCA/findId
 
 ### Username
 
-- ???: https://www.instagram.com/accounts/password/reset/
-- ???: https://signin.ebay.com/ws/eBayISAPI.dll?SignIn "Continue", then "Need help signing in?"
+- ???:
+  - https://www.instagram.com/accounts/password/reset/
+  - https://signin.ebay.com/ws/eBayISAPI.dll?SignIn "Continue", then "Need help signing in?"
 
 ### Facebook ID
 
-- my.mail.ru-account: https://my.mail.ru/fb/FACEBOOK-URL-ID
+- my.mail.ru-account:
+  - https://my.mail.ru/fb/FACEBOOK-URL-ID
 
 ### Vkontakte ID
 
-- my.mail.ru-account: https://my.mail.ru/vk/VKONTAKTE-ID
-- vk-account-extra-data: https://vk.com/foaf.php?id=VKONTAKTE-ID (date of account created, date of last login, optional bio and social links)
-- vk-account-history: https://t.me/vk2017bot
-- vk-account-history: https://t.me/VKHistoryRobot
-- vk-account-history: https://bigbookname.com/user/zzz-VKONTAKTE-ID
+- my.mail.ru-account:
+  - https://my.mail.ru/vk/VKONTAKTE-ID
+- vk-account-extra-data:
+  - https://vk.com/foaf.php?id=VKONTAKTE-ID (date of account created, date of last login, optional bio and social links)
+- vk-account-history:
+  - https://t.me/vk2017bot
+  - https://t.me/VKHistoryRobot
+  - https://bigbookname.com/user/zzz-VKONTAKTE-ID
 
 ### Gmail email
 
-- my.mail.ru-account: https://my.mail.ru/gmail/GMAIL-USERNAME (without "@gmail.com")
+- my.mail.ru-account:
+  - https://my.mail.ru/gmail/GMAIL-USERNAME (without "@gmail.com")
 
 ### Skype Username
-- phone-number,email: https://account.live.com/ResetPassword.aspx
+- phone-number,email:
+  - https://account.live.com/ResetPassword.aspx
 
 ### Photo
 
-- vk-account,odnoklassniki-account,clubhouse-account,tiktok-account: https://search4faces.com/
-- vk-account: https://findclone.ru
-- web-document: https://yandex.ru/images/
-- web-document: https://images.google.com/
+- vk-account,odnoklassniki-account,clubhouse-account,tiktok-account:
+  - https://search4faces.com/
+- vk-account:
+  - https://findclone.ru
+- web-document:
+  - https://yandex.ru/images/
+  - https://images.google.com/
 
 ### Telegram ID
 
-- telegram-groups,username,username-history: https://t.me/tgscanrobot
+- telegram-groups,username,username-history:
+  - https://t.me/tgscanrobot
 
 ### Location
-
-* photo: https://www.google.com/maps
-* photo: https://yandex.ru/maps
-* photo: https://www.bing.com/maps
+- streetview photos:
+  - https://www.google.com/maps
+  - https://yandex.ru/maps
+  - https://www.bing.com/maps
+- social network photos:
+  - https://fotomapia.ru/
+- building databases:
+  - year/construction project/photo:
+    - https://photobuildings.com 
+  - historical photos:
+    - https://pastvu.com 
+  - historical data of Saint-Petersburg buildings:
+    - https://www.citywalls.ru 
 
 ### Overpass API Query
 
-* result of query: https://overpass-turbo.eu/
-* result of query: https://maps.mail.ru/osm/tools/overpass/
+- result of query:
+  - https://overpass-turbo.eu/
+  - https://maps.mail.ru/osm/tools/overpass/
 
 ### Photo of Location
 
-* estimated coordinates: https://labs.tib.eu/geoestimation/
-
-### Location
-
-* vk.com photos made at the location: https://fotomapia.ru/
-
-### Buidling's Location
-
-* year/construction project/photo: https://photobuildings.com 
-* historical photos: https://pastvu.com 
-* historical data of Saint-Petersburg buildings: https://www.citywalls.ru 
+- estimated coordinates:
+  - https://labs.tib.eu/geoestimation/
