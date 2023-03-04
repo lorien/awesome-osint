@@ -80,27 +80,24 @@ How to read this list. Each section (header) represent input data i.e. data you 
   - https://t.me/tgscanrobot
 
 ### Location
-- streetview photos:
+- streetview:
   - https://www.google.com/maps
   - https://yandex.ru/maps
   - https://www.bing.com/maps
-- social network photos:
+- social-network-photos:
   - https://fotomapia.ru/
-- building databases:
-  - year/construction project/photo:
-    - https://photobuildings.com 
-  - historical photos:
-    - https://pastvu.com 
-  - historical data of Saint-Petersburg buildings:
-    - https://www.citywalls.ru 
+- building-details,building-photo,building-historical-photo:
+  - https://photobuildings.com 
+  - https://pastvu.com 
+  - https://www.citywalls.ru 
 
 ### Overpass API Query
 
-- result of query:
+- results-on-map,results-as-data:
   - https://overpass-turbo.eu/
   - https://maps.mail.ru/osm/tools/overpass/
 
 ### Photo of Location
 
-- estimated coordinates:
+- location:
   - https://labs.tib.eu/geoestimation/
