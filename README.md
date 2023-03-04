@@ -2,7 +2,7 @@
 
 I am going to build this list for my own needs. Feel free to submit PR with new services/tools.
 
-How to read this list. Each section name represent input data i.e. data you have already. Each item in the list contains type of data you can reveal with input data and URL of page to enter input data.
+How to read this list. Each section (header) represent input data i.e. data you have already. Each subsection (list item) represents type of data you can get. Each URL represents the page to enter input data.
 
 ### Email
 
