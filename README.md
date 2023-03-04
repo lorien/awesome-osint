@@ -80,7 +80,7 @@ How to read this list. Each section name represent input data i.e. data you have
 
 ### Location
 
-* photos made at the location: https://fotomapia.ru/
+* vk.com photos made at the location: https://fotomapia.ru/
 
 ### Buidling's Location
 
