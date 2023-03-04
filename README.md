@@ -1,4 +1,4 @@
-# OSINT tools to search for human data
+# OSINT tools to search for human data and location details
 
 I am going to build this list for my own needs. Feel free to submit PR with new services/tools.
 
@@ -62,3 +62,28 @@ How to read this list. Each section name represent input data i.e. data you have
 ### Telegram ID
 
 - telegram-groups,username,username-history: https://t.me/tgscanrobot
+
+### Location
+
+* photo: https://www.google.com/maps
+* photo: https://yandex.ru/maps
+* photo: https://www.bing.com/maps
+
+### Overpass API Query
+
+* result of query: https://overpass-turbo.eu/
+* result of query: https://maps.mail.ru/osm/tools/overpass/
+
+### Photo of Location
+
+* estimated coordinates: https://labs.tib.eu/geoestimation/
+
+### Location
+
+* photos made at the location: https://fotomapia.ru/
+
+### Buidling's Location
+
+* year/construction project/photo: https://photobuildings.com 
+* historical photos: https://pastvu.com 
+* historical data of Saint-Petersburg buildings: https://www.citywalls.ru 
