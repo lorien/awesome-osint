@@ -1,4 +1,4 @@
-# OSINT tools to search for human data and location details
+# OSINT tools to search for personal and geo data
 
 I am going to build this list for my own needs. Feel free to submit PR with new services/tools.
 
