@@ -78,6 +78,8 @@ How to read this list. Each section (header) represent input data i.e. data you 
 
 - telegram-groups,username,username-history:
   - https://t.me/tgscanrobot
+- registration-date:
+  - https://t.me/regdatebot
 
 ### Location
 - streetview:
