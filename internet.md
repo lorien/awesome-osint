@@ -20,6 +20,7 @@
 - https://viewdns.info/iphistory/
 - https://threatcrowd.org/ - see "dns resolutions" in results
 - https://cyber-hub.pw/domain_history.php
+- https://dnshistory.org/dns-records
 
 ### Reverse NS
 
