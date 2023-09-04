@@ -33,6 +33,7 @@
 See also "Domain IP History" tools
 
 - http://www.crimeflare.org:82/cfs.html
+- article: https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/uncovering-cloudflare
 
 ### WHOIS History
 
