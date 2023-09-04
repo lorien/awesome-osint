@@ -14,6 +14,7 @@
 - bing: "ip:8.8.8.8"
 - http://atsameip.intercode.ca/
 - https://dnslytics.com/reverse-ip
+- https://myip.ms/browse/sites_history/
 
 ### Domain IP History
 
