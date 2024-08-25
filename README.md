@@ -51,7 +51,6 @@ How to read this list. Each section (header) represent input data i.e. data you 
 - vk-account-extra-data:
   - https://vk.com/foaf.php?id=VKONTAKTE-ID (date of account created, date of last login, optional bio and social links)
 - vk-account-history:
-  - https://t.me/vk2017bot
   - https://t.me/VKHistoryRobot
   - https://bigbookname.com/user/zzz-VKONTAKTE-ID
 
